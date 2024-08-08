@@ -1,0 +1,20 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+django = "*"
+whitenoise = "*"
+djangorestframework = "*"
+djangorestframework-simplejwt = "*"
+django-import-export = "*"
+psycopg2-binary = "*"
+boto3 = "*"
+django-storages = "*"
+pillow = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"

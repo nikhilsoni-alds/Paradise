@@ -1,0 +1,8 @@
+Paradise Project
+
+Project name: Paradise
+Database Password: Paradisealds@88
+
+endpoint url: https://novxeoncyiswwnrbskkv.supabase.co/storage/v1/s3
+Access key: a5cedadee9f6174316b43a403fb645fa
+Secret access key: 649c79aeb7ced7de6ead6dbbf38bdf4e6f7e4966d05d26d313e4812bdbcf9bde
